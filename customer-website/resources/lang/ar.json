@@ -1,0 +1,30 @@
+{
+    "Home":"الصفحة الرئيسية",
+    "About":"معلومات عنا",
+    "popular_categories":"الفئات الأكثر شهرة",
+    "avg_price":"متوسط السعر",
+    "avg_price_is_not_counted":"لم يتم احتساب متوسط السعر",
+    "Restaurants":"مطاعم", 
+    "Foods":"مأكولات" ,
+    "Search for restaurants or foods":"ابحث عن مطاعم أو مأكولات",
+    "Total":"المجموع",
+    "Foods belong to category":"المأكولات التي تنتمي إلى الفئة",
+    "Restaurants belong to cuisine":"المطاعم تنتمي إلى المطبخ",
+    "Search result on foods with a name like":"نتيجة البحث عن المأكولات التي تحمل اسمًا مثل",
+    "Search result on restaurants with a name like":"نتيجة البحث عن المطاعم مع اسم مثل",
+    "Delivery":"توصيل",
+    "Take away":"خدمة العملاء",
+    "No food is found":"لم يتم العثور على مأكولات",
+    "No restaurant is found":"لم يتم العثور على مطاعم",
+    "Previous":"السابق",
+    "Next":"التالي",
+    "Page":"صفحة",
+    "of":"من",
+    
+
+    "Popular Restaurants": "  مطاعم مشهورة",
+    "View all":"عرض الكل",
+    "Our Menu":"قائمة الطعام",
+    "More than":"أكثر من {number_restaurant} مطاعم",
+    "Our Very Best Foods":"أفضل الأطعمة لدينا"
+}
